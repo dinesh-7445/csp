@@ -1,5 +1,5 @@
 {
-    "name": "viraxpress/csp",
+    "name": "vxps/csp",
     "description": "Backend management for Content Security Policy(CSP)",
     "type": "magento2-module",
     "license": "Apache-2.0",
